@@ -29,3 +29,10 @@ p.tag-line {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
 }
+
+p.copy-right {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    text-align: right;
+}
